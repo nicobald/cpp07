@@ -2,6 +2,8 @@
 
 #include <iostream>
 #include <exception>
+#include <cstdlib>
+#include <ctime> 
 
 template <typename T>
 class Array
